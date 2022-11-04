@@ -1,0 +1,12 @@
+body{
+    background-color: aquamarine;
+}
+
+table, tr, td, th{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+
+ol{
+    list-style-type: armenian;
+}
